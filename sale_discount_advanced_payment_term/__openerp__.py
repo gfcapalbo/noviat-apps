@@ -37,5 +37,5 @@
     'demo': [
         'demo/sale_discount_demo.xml'
     ],
-    'installable': True,
+    'installable': False,
 }

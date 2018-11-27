@@ -31,5 +31,5 @@
         'views/stock_inventory.xml',
         'wizard/import_stock_level.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

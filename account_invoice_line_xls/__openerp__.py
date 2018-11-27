@@ -15,5 +15,5 @@
         'report/invoice_line_xls.xml',
     ],
     'auto_install': False,
-    'installable': True,
+    'installable': False,
 }

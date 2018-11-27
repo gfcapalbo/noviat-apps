@@ -33,5 +33,5 @@
     'data': [
         'views/assets_backend.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

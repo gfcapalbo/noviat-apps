@@ -18,5 +18,5 @@
         'data/ir_cron.xml',
         'views/account_reinvoice_batch_log.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

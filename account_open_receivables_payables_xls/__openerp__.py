@@ -17,5 +17,5 @@
         'wizard/wiz_partner_open_arap_period.xml',
         'report/report.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

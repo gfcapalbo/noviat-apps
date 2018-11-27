@@ -14,5 +14,5 @@
     'depends': [
         'report_xlsx',
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -15,5 +15,5 @@
         'views/account_invoice.xml',
         'wizard/import_invoice_line_wizard.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -21,5 +21,5 @@
         'views/account_reinvoice_journal_mapping_multi_company.xml',
         'views/res_partner.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -36,5 +36,5 @@
         'views/menuitem.xml',
         'wizard/account_coda_import.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

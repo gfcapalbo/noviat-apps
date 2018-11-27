@@ -33,5 +33,5 @@
     'data': [
         'views/analytic_dimension.xml',
         ],
-    'installable': True,
+    'installable': False,
 }

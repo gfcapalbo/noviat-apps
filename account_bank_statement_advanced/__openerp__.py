@@ -32,5 +32,5 @@
         'wizard/bank_statement_automatic_reconcile_result_view.xml',
         'report/reports.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -27,5 +27,5 @@
         'views/intrastat_installer.xml',
         'views/l10n_be_intrastat_product.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

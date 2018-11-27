@@ -36,6 +36,6 @@
     'data': [
         'views/account_move.xml',
     ],
-    'installable': True,
-    'auto_install': True,
+    'installable': False,
+    'auto_install': False,
 }

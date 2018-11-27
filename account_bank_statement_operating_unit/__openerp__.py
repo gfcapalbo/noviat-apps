@@ -32,5 +32,5 @@
         'views/account_bank_statement.xml',
         'views/assets_backend.xml',
         ],
-    'installable': True,
+    'installable': False,
 }

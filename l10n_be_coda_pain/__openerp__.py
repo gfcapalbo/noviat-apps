@@ -18,5 +18,5 @@
     'data': [
         'views/coda_bank_account.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

@@ -18,6 +18,6 @@
     'data': [
         'views/coda_bank_account.xml',
     ],
-    'installable': True,
-    'auto_install': True,
+    'installable': False,
+    'auto_install': False,
 }

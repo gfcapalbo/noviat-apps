@@ -16,5 +16,5 @@
     'depends': [
         'account',
     ],
-    'installable': True
+    'installable': False
 }

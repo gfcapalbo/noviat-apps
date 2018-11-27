@@ -18,5 +18,5 @@
         'views/account_move_line.xml',
         'views/assets_backend.xml',
         ],
-    'installable': True,
+    'installable': False,
 }

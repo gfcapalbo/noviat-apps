@@ -29,5 +29,5 @@
         'views/menuitem.xml',
         'wizard/account_reinvoice_wizard.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

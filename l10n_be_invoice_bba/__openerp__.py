@@ -38,5 +38,5 @@
     'images': [
         'images/invoice.jpg',
     ],
-    'installable': True,
+    'installable': False,
 }

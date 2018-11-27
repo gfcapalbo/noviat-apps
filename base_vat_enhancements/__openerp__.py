@@ -29,5 +29,5 @@
     'category': 'Accounting & Finance',
     'summary': 'base_vat module performance enhancements',
     'depends': ['base_vat'],
-    'installable': True,
+    'installable': False,
 }

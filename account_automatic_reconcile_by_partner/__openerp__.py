@@ -16,5 +16,5 @@
     'data': [
         'wizard/account_automatic_reconcile.xml',
     ],
-    'installable': True
+    'installable': False
 }

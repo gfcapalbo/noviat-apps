@@ -15,5 +15,5 @@
         'views/account_journal_view.xml',
         'views/account_voucher_pay_invoice.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

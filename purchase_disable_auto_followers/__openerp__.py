@@ -9,5 +9,5 @@
     'website': 'http://www.noviat.com',
     'category': 'Purchase Management',
     'depends': ['purchase'],
-    'installable': True,
+    'installable': False,
 }

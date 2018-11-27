@@ -45,5 +45,5 @@
         'wizard/l10n_be_vat_intra_view.xml',
         'wizard/l10n_be_partner_vat_listing.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

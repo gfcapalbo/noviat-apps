@@ -33,5 +33,5 @@
         'views/account_bank_statement.xml',
         'wizard/import_statement_line_wizard.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

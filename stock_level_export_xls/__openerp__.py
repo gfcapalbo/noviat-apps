@@ -12,5 +12,5 @@
     'data': [
         'wizard/wiz_export_stock_level.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

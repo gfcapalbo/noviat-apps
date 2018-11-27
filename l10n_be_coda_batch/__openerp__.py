@@ -17,5 +17,5 @@
         'views/res_company.xml',
         'wizard/account_coda_batch_import.xml'
     ],
-    'installable': True,
+    'installable': False,
 }
